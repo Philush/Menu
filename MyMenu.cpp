@@ -244,7 +244,6 @@ int main() {
 		{
 		case Down:
 			num = num % 3 + 1;
-
 			break;
 
 		case Up:
